@@ -1,0 +1,12 @@
+BranchProjectTracker__C\:\\Users\\lenovo\\git\\learn-repo2\\.git_master=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<projects>\r\n<project>\\gitDemo</project>\r\n</projects>
+BranchProjectTracker__D\:\\Microserives-Project\\api-gateway\\.git_master=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<projects>\r\n<project>/</project>\r\n</projects>
+BranchProjectTracker__D\:\\Microserives-Project\\currency-conversion-service\\.git_master=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<projects>\r\n<project>/</project>\r\n</projects>
+BranchProjectTracker__D\:\\Microserives-Project\\currency-exchange-service\\.git_master=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<projects>\r\n<project>/</project>\r\n</projects>
+BranchProjectTracker__D\:\\Microserives-Project\\limits_service\\.git_limits-service=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<projects>\r\n<project>/</project>\r\n</projects>
+BranchProjectTracker__D\:\\Microserives-Project\\limits_service\\.git_limits-service-repo=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<projects>\r\n<project>/</project>\r\n</projects>
+BranchProjectTracker__D\:\\Microserives-Project\\limits_service\\.git_master=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<projects>\r\n<project>/</project>\r\n</projects>
+BranchProjectTracker__D\:\\Microserives-Project\\naming-server\\.git_master=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<projects>\r\n<project>/</project>\r\n</projects>
+BranchProjectTracker__D\:\\Microserives-Project\\spring-cloud-config-server\\.git_master=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<projects>\r\n<project>/</project>\r\n</projects>
+commit_dialog_history_messages=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<messages>\r\n<message>api-gateway RouteLocator</message>\r\n<message>api</message>\r\n<message>eureka.client.serviceUrl.defaultZone</message>\r\n<message>ds</message>\r\n<message>@FeignClient anotation added</message>\r\n<message>quantity values changed</message>\r\n<message>added RestTemplate</message>\r\n<message>Currency Conversion service</message>\r\n<message>conversion service</message>\r\n<message>FindByFromAndTo Method</message>\r\n</messages>
+eclipse.preferences.version=1
+repositories_view_filters=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<FilterCache/>
