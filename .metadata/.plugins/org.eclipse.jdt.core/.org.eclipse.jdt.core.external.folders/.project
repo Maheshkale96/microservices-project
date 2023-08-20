@@ -8,11 +8,4 @@
 	</buildSpec>
 	<natures>
 	</natures>
-	<linkedResources>
-		<link>
-			<name>.link1</name>
-			<type>2</type>
-			<location>D:/Learn Technologies/MicroserviceProjects/CitzenService/target/classes</location>
-		</link>
-	</linkedResources>
 </projectDescription>
