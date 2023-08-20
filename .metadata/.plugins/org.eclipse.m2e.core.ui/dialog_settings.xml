@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="D:\Learn Technologies\MicroserviceProjects\VaccinationCenter"/>
 			<item value="D:\Learn Technologies\MicroserviceProjects"/>
 			<item value="D:\Microserives-Project\gitDemo"/>
 			<item value="D:\Microserives-Project\demo"/>

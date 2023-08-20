@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<item key="ResetTargetSelectionDialog.resetType" value="HARD"/>
+	<item key="org.eclipse.egit.ui.internal.clone.GitSelectWizardPageWizardSel" value="0"/>
 	<list key="CommitDialog.authorValues">
 		<item value="maheshkale96 &lt;maheshkale11196@gmail.com&gt;"/>
 	</list>
@@ -8,11 +9,12 @@
 		<item value="maheshkale96 &lt;maheshkale11196@gmail.com&gt;"/>
 	</list>
 	<list key="EGit.KnownHosts">
-		<item value="bitbucket.org"/>
 		<item value="git.eclipse.org"/>
+		<item value="bitbucket.org"/>
 		<item value="github.com"/>
 	</list>
 	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://github.com/Maheshkale96/microservices-project.git"/>
 		<item value="https://github.com/Maheshkale96/learn-repo2.git"/>
 	</list>
 	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
@@ -84,5 +86,7 @@
 		<item key="DIALOG_WIDTH" value="538"/>
 		<item key="DIALOG_HEIGHT" value="672"/>
 		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+	<section name="GitImportWizard">
 	</section>
 </section>
